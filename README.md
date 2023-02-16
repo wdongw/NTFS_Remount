@@ -42,3 +42,6 @@ done
 
 IFS=$IFS_OLD
 ```
+<p>
+Other Solutions is ezNTFS:  https://github.com/lezgomatt/ezntfs
+    
